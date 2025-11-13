@@ -12,8 +12,10 @@ Built with Kotlin and RecyclerView for listing flights, and supports both phone 
 - Static sample data to demonstrate functionality  
 
 ## 📱 Screenshots
+<img width="315" height="775" alt="undefined - Imgur" src="https://github.com/user-attachments/assets/1fea443f-1811-4bcd-bd13-dce2a3974c9c" />
+<img width="315" height="775" alt="undefined - Imgur (1)" src="https://github.com/user-attachments/assets/b119cc47-1d75-4581-8e63-22f03348192a" />
 
-_(Add some screenshots of the list screen, e‑ticket screen, and tablet two‑pane layout to this section.)_
+
 
 ## 🧩 Getting Started
 
