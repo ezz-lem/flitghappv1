@@ -12,8 +12,9 @@ Built with Kotlin and RecyclerView for listing flights, and supports both phone 
 - Static sample data to demonstrate functionality  
 
 ## 📱 Screenshots
-<img width="315" height="775" alt="undefined - Imgur" src="https://github.com/user-attachments/assets/1fea443f-1811-4bcd-bd13-dce2a3974c9c" />
-<img width="315" height="775" alt="undefined - Imgur (1)" src="https://github.com/user-attachments/assets/b119cc47-1d75-4581-8e63-22f03348192a" />
+<img width="1440" height="3120" alt="Screenshot_20251113_175711" src="https://github.com/user-attachments/assets/781fb1c7-a632-4c88-b96b-9b12e437f63e" />
+<img width="3120" height="1440" alt="Screenshot_20251113_175724" src="https://github.com/user-attachments/assets/e19e77ba-b3bb-4bad-8b08-f2f45ea7ce06" />
+
 
 
 
